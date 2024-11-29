@@ -1,0 +1,6 @@
+[submodule "event-service"]
+	path = event-service
+	url = https://github.com/Satt0/ticket-event-service.git
+[submodule "book-service"]
+	path = book-service
+	url = https://github.com/Satt0/ticket-booking-service.git
