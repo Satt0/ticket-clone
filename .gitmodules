@@ -4,3 +4,6 @@
 [submodule "booking-service"]
 	path = booking-service
 	url = https://github.com/Satt0/ticket-booking-service.git
+[submodule "waiting-room"]
+	path = waiting-room
+	url = https://github.com/Satt0/ticket-waiting-room.git
