@@ -1,20 +1,29 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+## Feature Description
 
----
+<!-- Briefly describe the feature you would like to request -->
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Problem Statement
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+<!-- Describe the problem you are facing that this feature would address -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Proposed Solution
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+<!-- Describe your proposed solution for the feature -->
+
+## Alternatives Considered
+
+<!-- List any alternative solutions or features you have considered -->
+
+## Additional Context
+
+<!-- Add any other context, screenshots, or examples about the feature request here -->
+
+## Environment
+
+- Software Version: <!-- Provide the software version -->
+- Operating System: <!-- Provide the OS details -->
+- Any other relevant details: <!-- Provide any other relevant details -->
+
+## Attachments
+
+<!-- Attach any relevant documents like screenshots, diagrams, or mockups if available -->
